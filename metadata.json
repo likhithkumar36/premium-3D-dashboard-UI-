@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel",
+  "description": "Futuristic 3D executive cloud operations and analytics control center with glassmorphic depth, interactive charts, and real-time performance telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
